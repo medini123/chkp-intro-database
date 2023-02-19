@@ -1,0 +1,14 @@
+MongoDB is an object-oriented, simple, dynamic and scalable NoSQL database. It is based on the NoSQL document storage model where the data objects are stored as separate and flexible JSON-like documents.
+MongoDB supports field queries, range queries, and regular expression searches. Queries can return specific fields and also account for user-defined functions. This is made possible because MongoDB indexes BSON documents and uses the MongoDB Query Language (MQL).
+
+
+SQL (Structured query language) is a programming language for storing and processing information in a relational database. A relational database stores information in tabular form, with rows and columns representing different data attributes and the various relationships between the data values.
+ MySQL is known for its ease of use, low learning curve, and simple installation. In fact, most users can have a MySQL install up and running in less than 30 minutes, regardless of the platform you run it on.
+
+
+Difference between Mongodb and SQL:
+In comparison to the SQL server, MongoDB is faster and more scalable. While the SQL server supports JOIN and Global transactions, MongoDB does not. The MS SQL server does not accommodate large amounts of data, however MongoDB does.
+
+Agile practices are supported by MongoDB, although they are not supported by MS SQL Server.
+
+A SQL database processes SQL queries, whereas MongoDB offers JSON querying. MongoDB is a more dynamic and complicated choice that is appropriate for hierarchical data because of its fundamental properties, as opposed to a SQL Database, which is still more predetermined and appropriate for other types of data storage.Hence this is the reason MongoDB outshines the SQL database.
